@@ -4,6 +4,7 @@ pandas
 ipywidgets
 numpy
 textblob
+matplotlib
 plotly-express
 voila
 interactive
